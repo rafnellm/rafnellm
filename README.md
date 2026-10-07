@@ -1,3 +1,4 @@
 <p align="center">
   <img src="./assets/overview.png" alt="Rafnell Muro — Welcome to my world. About: products, AI systems and businesses." width="100%" />
+  <img src="./assets/now.jpg" alt="What I’m doing now — Building NOVUS, building AI systems, and deepening the foundation." width="100%" />
 </p>
