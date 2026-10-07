@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/profile.jpg" alt="Rafnell Muro — Welcome to my world." width="100%" />
+  <img src="./assets/overview.svg" alt="Rafnell Muro — Welcome to my world. About: products, AI systems and businesses." width="100%" />
 </p>
