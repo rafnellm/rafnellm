@@ -1,1 +1,1 @@
-<p align="center"><img src="./assets/overview.png" alt="Rafnell Muro — Welcome to my world. About: products, AI systems and businesses." width="100%" align="top" /><img src="./assets/now.webp" alt="What I’m doing now — Building NOVUS, building AI systems, and deepening the foundation." width="100%" align="top" /></p>
+<p align="center"><img src="./assets/profile-joined.png" alt="Rafnell Muro — Welcome to my world. About and what I’m doing now: NOVUS, AI systems and computer science." width="100%" /></p>
