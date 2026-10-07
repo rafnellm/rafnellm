@@ -1,1 +1,1 @@
-<p align="center"><img src="./assets/profile-joined.png" alt="Rafnell Muro — Welcome to my world. About and what I’m doing now: NOVUS, AI systems and computer science." width="100%" /></p>
+<p align="center"><img src="./assets/profile-joined.png" alt="Rafnell Muro — Welcome to my world. About and what I’m doing now: NOVUS, AI systems and computer science." width="100%" /><img src="./assets/education.jpg" alt="Education — Harvard CS50: Introduction to Computer Science. University Santa María: Civil Engineering." width="100%" /></p>
