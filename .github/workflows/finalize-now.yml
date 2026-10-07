@@ -46,4 +46,4 @@ jobs:
           git commit -m "Fix NOW section asset"
           git push
 
-# rerun after all transfer parts are present
+# rerun after correcting part-10
